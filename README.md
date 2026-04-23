@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر طالع في ليلي
+> من هواك سهران بنادي
+> نار الشوق بتدفي قلبي
+> والهوى جابك لجنبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
