@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rayeh We Jay
+
+This log tracks the cryptographic history and versioning for the song **Rayeh We Jay** (rayeh-we-jay).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:37:29.048788 | `v1` | `48407f4e125213a1529bf8339fb01712711ca4d24e2e10a440f86b189687e246` | `568c75f44bd2eb24eb093cbfa53dd879563bd8ddfc7ee89c94361b1214231fe0` | `2026-05-09_rayeh-we-jay-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
